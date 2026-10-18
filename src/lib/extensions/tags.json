@@ -1,0 +1,12 @@
+{
+	"tags": {
+		"Cabinet": {},
+		"SideCabinet": { "isA": "Cabinet", "label": "Side Cabinet" },
+		"CA4009": { "isA": "SideCabinet" }
+	},
+	"words": {
+		"Cabinet": "Cabinet",
+		"Side Cabinet": "SideCabinet",
+		"CA4009": "CA4009"
+	}
+}
